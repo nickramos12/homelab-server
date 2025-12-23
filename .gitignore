@@ -1,0 +1,16 @@
+﻿# OS
+Thumbs.db
+.DS_Store
+
+# Secrets
+*.env
+*.key
+
+# Temp
+*.tmp
+
+# JetBrains Rider
+.idea/
+*.iws
+*.iml
+*.ipr
